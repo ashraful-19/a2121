@@ -104,3 +104,21 @@ div.top-bottom {
   border-radius: 5px;
   font-size: 12px;
 }
+
+.easynav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-items: center;
+  padding: 7px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.easynav p {
+  border-radius: 3px;
+  background-color: rgb(197, 255, 223);
+  margin: 1px;
+  padding: 1px 2px 1px 2px;
+  font-size: 10px;
+}

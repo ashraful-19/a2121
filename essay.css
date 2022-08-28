@@ -1,0 +1,158 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: solaimanlipi, sans-serif;
+  background: #ffffff;
+  height: 100%;
+  font-family: 'SolaimanLipi', Arial, sans-serif !important;
+}
+
+.icon {
+  margin-top: 8px;
+  height: 23px;
+  width: auto;
+}
+.top-nav {
+  background: #fff7f7;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+.icon-dp {
+  margin-top: 2px;
+  height: 40px;
+  width: auto;
+}
+
+.Bottom-nav {
+  z-index: 455;
+  position: fixed;
+  bottom: 0px;
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  width: 100%;
+  text-align: center;
+  height: 60px;
+  background-color: #ffffff;
+}
+
+.bottom {
+  padding-top: 0px;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.bottom p {
+  font-size: 13px;
+  margin: 0px;
+  margin-top: 0px;
+  padding: 0px;
+}
+
+h6.mid-align {
+  display: block;
+  margin-left: 55px;
+  color: rgba(0, 53, 212, 0.772);
+  font-weight: 100;
+  font-size: 20px;
+}
+
+div.top-bottom {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 8px;
+}
+
+.lec {
+  border-radius: 0px;
+
+  font-size: 14px;
+  width: 100%;
+
+  overflow: scroll;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  font-family: 'SolaimanLipi', Arial, sans-serif !important;
+}
+
+.lecName {
+  padding: 10px 15px 10px 15px;
+  font-size: 15px;
+}
+
+.menuicon {
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+}
+
+.icon1 {
+  height: 40px;
+}
+
+.ppdtimg {
+  width: 100%;
+  background: blue;
+}
+
+.start_time_tips {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.barlist {
+  background: rgb(255, 255, 255);
+  padding: 5px 15px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+.button1 {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  text-align: center;
+  padding: 5px 35px 5px 35px;
+
+  margin: 0px auto;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+. {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  background-color: rgb(255, 255, 255);
+  padding: 10px 8px 10px 8px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.qcontainer {
+  border-radius: 10px;
+  padding: 15px 15px 15px 15px;
+  font-size: 14px;
+  margin: 4px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  font-family: 'SolaimanLipi', Arial, sans-serif !important;
+}
+
+.explain {
+  padding: 7px;
+  background-color: rgb(197, 255, 223);
+  display: inline-block;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.justify {
+  text-align: justify;
+}

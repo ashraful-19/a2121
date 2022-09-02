@@ -34,7 +34,9 @@ Latest commit a15087c on Aug 4, 2021
     
 }
 html,body{
-    font-family: solaimanlipi,sans-serif;
+    
+    font-family: -apple-system, BlinkMacSystemFont, "Gunplay","solaimanlipi", "Droid Sans", sans-serif;
+    
     background: #ededed;
     height: 100%;
 }

@@ -90,3 +90,32 @@ div.top-bottom {
 .icon1 {
   height: 40px;
 }
+
+.running-wat {
+  background-color: rgb(255, 255, 255);
+
+  position: fixed;
+  top: 200px;
+  width: 100%;
+}
+.running-watbar {
+  background-color: rgb(34, 34, 34);
+  padding: 10px 10px;
+  width: 100%;
+  color: white;
+}
+
+.choice-wat_list {
+  margin-top: 0px;
+  background-color: white;
+  padding: 10px;
+}
+.choice-wat {
+  margin: 8px 0px;
+  font-size: 15px;
+  background-color: white;
+  padding: 10px 5px;
+
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+}
